@@ -1,0 +1,44 @@
+img{
+    height: 400;
+    width: 300;
+}
+
+body
+{
+    font-family: 'Lobster', cursive;
+    background: cadetblue;
+}
+
+.header_div
+{
+    background: red;
+    color: white;
+}
+
+.header_div p{
+    font-family: 'Lobster', cursive;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Lobster', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: red;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
